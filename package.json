@@ -1,0 +1,33 @@
+{
+    "name": "shadiercn",
+    "type": "module",
+    "version": "0.0.1",
+    "description": "ShadierCN is a components library with a comprehensive design system built on top of the shadcn/ui library.",
+    "keywords": [
+        "shadiercn",
+        "shadier-cn",
+        "shadier cn",
+        "shadcn/ui",
+        "shadcn",
+        "ui",
+        "library",
+        "components",
+        "components library",
+        "design system",
+        "design tokens"
+    ],
+    "author": "shadiercn",
+    "license": "MIT",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/shadiercn/ui.git"
+    },
+    "bugs": {
+        "url": "https://github.com/shadiercn/ui/issues"
+    },
+    "homepage": "https://github.com/shadiercn/ui#readme"
+}
